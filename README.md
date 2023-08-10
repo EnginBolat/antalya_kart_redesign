@@ -2,6 +2,11 @@
 
 ### Yapılacaklar
 ```bash
+  ✅ Uygulama İkonu
+  ✅ Anasayfa
+  ✅ Kartlarım Ekranı
+  ✅ Hatlar Ekranı
+  ❌ Giriş Ekranı
   ❌ Giriş Ekranı
   ❌ Kayıt Ekrano
   ❌ Profil Ekranı
