@@ -1,17 +1,24 @@
-# antalya_kart_redesign
+# Antalya Kart ReDesgin
 
-A new Flutter project.
+### Yapılacaklar
+```bash
+  ❌ Giriş Ekranı
+  ❌ Kayıt Ekrano
+  ❌ Profil Ekranı
+  ❌ Sefer Saatleri
+  ❌ Kart Satış Merkezleri
+  ❌ Yolculuk Değerlendir
+  ❌ Görüş Bildir
+  ❌ Kart Detay Sayfası
+  ❌ Otobüs Detay Sayfası
+  ❌ Durak Detay Sayfası
+```
+### Anasayfa
+ <img src="https://github.com/EnginBolat/antalya_kart_redesign/assets/59659276/27900a0e-842c-4d14-b790-ffa49d207fb5" width="320" height="720">
 
-## Getting Started
+### Kartlarım
+ <img src="https://github.com/EnginBolat/antalya_kart_redesign/assets/59659276/54ab3414-302d-45a2-8023-6367a561adcb" width="320" height="720">
 
-This project is a starting point for a Flutter application.
+### Hatlar
+ <img src="https://github.com/EnginBolat/antalya_kart_redesign/assets/59659276/dfabb0ce-baa3-4f0b-80eb-eac60825c4e3" width="320" height="720">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# antalya_kart_redesign
